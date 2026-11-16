@@ -1,0 +1,20 @@
+ALBERTO CLOCKS - SEO UPDATE
+
+Updated:
+- Homepage and collections page titles and meta descriptions
+- Indexing directives and social sharing metadata
+- One primary H1 on each indexable page
+- WebSite and CollectionPage JSON-LD structured data
+- Image decoding hints and lazy loading for below-the-fold images
+- Removed an invalid stylesheet link and corrected local navigation / price-list links
+- Login page set to noindex, follow
+- Added robots.txt
+
+Still needed after deployment:
+1. Add the live website's absolute canonical URL to index.html and collections.html.
+2. Publish an XML sitemap using the live domain and add its absolute URL to robots.txt.
+3. Add the live absolute URL for the Open Graph image.
+4. Submit the sitemap in Google Search Console and check indexing.
+5. Re-run the same SEO checker. A 90% score cannot be guaranteed from source edits alone; hosting, server response, Core Web Vitals, and the checker rules also affect the score.
+
+The supplied project did not contain a confirmed live website URL, so no domain-specific canonical or sitemap URLs were invented.
